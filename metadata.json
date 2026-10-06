@@ -1,0 +1,6 @@
+{
+  "name": "LunaLink",
+  "description": "A private connection platform allowing two connected individuals to create a shared digital space with intentional sharing and full privacy control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
